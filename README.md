@@ -12,3 +12,5 @@
 <img width="786" height="155" alt="image" src="https://github.com/user-attachments/assets/bdf122b6-3bd2-4c11-958f-846ab5972946" />
 
 В итоге получился минимально рабочий функционал, который можно расширять дальше.
+
+tg: @chto_eto_takoee
