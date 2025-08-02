@@ -6,6 +6,7 @@ from app.config import TOKEN_ADDRESS
 
 router = APIRouter()
 
+
 @router.get("/balance", response_model=TokenBalance)
 async def get_balance(
     address: str = Query(default=TOKEN_ADDRESS, description="The address of the token to get the balance of")
